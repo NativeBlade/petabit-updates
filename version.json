@@ -1,7 +1,7 @@
 {
     "bundle": {
-        "version": "1.0.0",
-        "url": "https://nativeblade.github.io/petabit-updates/laravel-bundle-1.0.0.json.gz",
-        "minShellVersion": "1.0.0" 
+        "version": "1.0.5",
+        "url": "https://nativeblade.github.io/petabit-updates/laravel-bundle-1.0.5.json.gz",
+        "minShellVersion": "1.0.5"
     }
 }
